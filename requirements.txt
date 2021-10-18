@@ -1,0 +1,7 @@
+pytelegrambotapi
+telebot
+requests
+bs4
+lxml
+sqlalchemy
+psycopg2
